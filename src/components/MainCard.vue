@@ -3,7 +3,7 @@
         <div class="main-container">
             <div class="container-one">
                 <div class="profile">
-                    <img src="../assets/PrantoProfilePicturePunjabi.JPG" alt="Profile Picture">
+                    <img src="../assets/linkedin.png" alt="Profile Picture">
                     <h3>Ashiq Uddin Pranto</h3>
                     <p>Full stack Developer with Asp.net and Vue | Cloud Computing | Agile Practitionar | Former Competitive Programmer <br><br> Bangladesh <br> Gmail: ashiqpranto@gmail.com</p>
                 </div>
