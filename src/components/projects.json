@@ -1,0 +1,20 @@
+{
+    "ProjectsArray" : [
+        {
+            "id" : 1,
+            "Title": "GarirNilam",
+            "About": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. ",
+            "Image": "https://media.licdn.com/dms/image/D562DAQESSmNx3q3B6Q/profile-treasury-image-shrink_800_800/0/1690177317679?e=1692378000&v=beta&t=rAaY7VHPkFZOI_PE9mTD_1-Jr9qtz0nKSvdxnnl9NOM",
+            "GithubLink": "https://github.com/AshiqPranto",
+            "ExternalLink": ""
+        },
+        {
+            "id" : 2,
+            "Title": "Project Two",
+            "About": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "Image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "GithubLink": "https://github.com/AshiqPranto",
+            "ExternalLink": ""
+        }
+    ]
+}

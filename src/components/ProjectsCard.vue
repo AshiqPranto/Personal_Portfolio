@@ -13,7 +13,7 @@
 </template>
 
 <script setup lang="ts">
-import jsonData from '/projects.json'
+import jsonData from './projects.json';
 </script>
 
 <style scoped>
